@@ -1,0 +1,27 @@
+html{
+    background-color: blanchedalmond;
+}
+.emisora{
+
+    background-color: blanchedalmond;
+    max-width: 700px;
+    margin: auto;
+    color: darkgreen;
+}
+.personas{
+max-width: 700px;
+margin: auto;
+color: darkgreen;
+}
+#programmer{
+    color: brown;
+}
+button{
+    background-color: rgba(13, 180, 175, 0.226);
+    color: chocolate;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: rgba(0, 255, 255, 0.479);
+color: blueviolet;
+}
